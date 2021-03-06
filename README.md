@@ -4,7 +4,7 @@
 
 • A simple expense tracker made with React(state management using Context API) and Node.js with MongoDB Atlas as database.
 
-• frontend deployed on Netlify and backend on Heroku.
+• Frontend deployed on Netlify and backend on Heroku.
 
 • A user can add and delete transactions from the list.
 
